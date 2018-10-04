@@ -134,9 +134,9 @@ Insert about me
 
 ---
 ### Osita Igwe
-<img src='' width='150'>
+<img src='images/osita.jpg' width='150'>
 
-Insert about me
+I find the task of writing an autobiography to be very difficult. 
 
 ---
 ### Tarekul Islam
