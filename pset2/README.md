@@ -46,7 +46,7 @@ Insert about me
 ### Daniel Ashley
 <img src='images/daniel.jpg' width='150'>
 
-Artist, Developer, Human
+Artist, Developer, Human?
 
 ---
 ### Syed Aziz
