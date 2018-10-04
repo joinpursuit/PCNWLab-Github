@@ -194,9 +194,9 @@ Insert about me
 
 ---
 ### Jose Rodriguez
-<img src='' width='150'>
+<img src='images/Jay-s-pic.jpeg' width='150'>
 
-Insert about me
+Huge Real Madrid fan. HALA MADRID!
 
 ---
 ### Ivy Strickland
