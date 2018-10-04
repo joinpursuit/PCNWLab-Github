@@ -32,7 +32,7 @@ Insert about me
 
 ---
 ### Robert Abreu
-<img src='images/rAbreu00.jpg' width='150' data-rotate='90'>
+<img src='images/rAbreu00.jpg' width='150'>
 
 ʇı ǝʞoɹq I
 
