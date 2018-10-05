@@ -206,7 +206,7 @@ Insert about me
 
 ---
 ### Karan Taneja
-<img src='' width='150'>
+<img src='images/TK.png' width='150'>
 
 Insert about me
 
