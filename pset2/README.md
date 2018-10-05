@@ -44,7 +44,7 @@ Insert about me
 
 ---
 ### Daniel Ashley
-<img src='images/daniel1.jpg' width='150'>
+<img src='images/daniel2.jpg' width='150'>
 
 Artist, Developer, Human?
 
