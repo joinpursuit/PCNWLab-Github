@@ -208,7 +208,7 @@ Insert about me
 ### Karan Taneja
 <img src='images/TK.png' width='150'>
 
-Insert about me
+99 bugs in the code, take one down and patch it all out, 107 bugs in the code
 
 ---
 ### Aaron Teele
