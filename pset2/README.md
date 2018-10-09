@@ -56,9 +56,9 @@ Insert about me
 
 ---
 ### Malcolm Barbee
-<img src='' width='150'>
+<img src='images/Malcolm_Barbee.jpg' width='150'>
 
-Insert about me
+Skateboarding Coder
 
 ---
 ### Jorge Billini
