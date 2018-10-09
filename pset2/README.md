@@ -110,9 +110,9 @@ Insert about me
 
 ---
 ### Nadav Green
-<img src='' width='150'>
+<img src='images/nadav_green.JPG' width='150'>
 
-Insert about me
+Born and raised in Jamaica 🇯🇲
 
 ---
 ### Richard Green
