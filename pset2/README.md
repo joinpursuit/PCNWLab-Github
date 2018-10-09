@@ -44,9 +44,9 @@ Insert about me
 
 ---
 ### Daniel Ashley
-<img src='' width='150'>
+<img src='images/daniel2.jpg' width='150'>
 
-Insert about me
+Artist, Developer, Human?
 
 ---
 ### Syed Aziz
