@@ -32,9 +32,9 @@ Insert about me
 
 ---
 ### Robert Abreu
-<img src='' width='150'>
+<img src='images/rAbreu00.jpg' width='150'>
 
-Insert about me
+ʇı ǝʞoɹq I
 
 ---
 ### Mielyn Acosta
