@@ -26,9 +26,9 @@ Check out [showroom.me](https://showroom.me)!
 ## Fellows
 
 ### Pamela Abreu
-<img src='' width='150'>
+<img src='images/pam.jpg' width='150'>
 
-Insert about me
+hmu if u want a portrait drawing of yourself or anyone for $10-20 :)
 
 ---
 ### Robert Abreu
