@@ -188,9 +188,9 @@ Insert about me
 
 ---
 ### Johnny Rivera
-<img src='' width='150'>
+<img src='images/johnny.jpg' width='150'>
 
-Insert about me
+Focused on Full Stack Web, Blogging, Entrepreneurship, Volunteerism
 
 ---
 ### Jose Rodriguez
