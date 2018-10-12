@@ -152,9 +152,9 @@ Insert about me
 
 ---
 ### Anthony Miller
-<img src='' width='150'>
+<img src='images/Tony.jpg' width='150'>
 
-Insert about me
+Finding my way through the forest
 
 ---
 ### Alexander Onate
